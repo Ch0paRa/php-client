@@ -9,7 +9,7 @@
     "packages": [
         {
             "name": "bitwasp/bitcoin",
-            "version": "v0.0.7.1",
+            "version": "v0.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Bit-Wasp/bitcoin-php.git",
@@ -36,7 +36,6 @@
                 "pleonasm/merkle-tree": "v1.0.0",
                 "react/react": "v0.4.0",
                 "react/socket-client": "^0.4.0",
-                "rgooding/protobuf-php": "v0.0.1",
                 "rych/hash_pbkdf2-compat": "v1.0.0"
             },
             "require-dev": {
