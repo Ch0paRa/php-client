@@ -9,7 +9,7 @@
     "packages": [
         {
             "name": "bitwasp/bitcoin",
-            "version": "v0.0.7",
+            "version": "v0.0.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Bit-Wasp/bitcoin-php.git",
@@ -694,57 +694,6 @@
                 "reactor"
             ],
             "time": "2014-02-03 02:33:04"
-        },
-        {
-            "name": "rgooding/protobuf-php",
-            "version": "0.0.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/rgooding/Protobuf-PHP.git",
-                "reference": "d688d7894d65d80a38846e0b622b9a2cd7fd4d68"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/rgooding/Protobuf-PHP/zipball/d688d7894d65d80a38846e0b622b9a2cd7fd4d68",
-                "reference": "d688d7894d65d80a38846e0b622b9a2cd7fd4d68",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.0"
-            },
-            "bin": [
-                "protoc-gen-php.bat",
-                "protoc-gen-php.php"
-            ],
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "DrSlump": "library/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Iván -DrSlump- Montes",
-                    "email": "drslump@pollinimini.net",
-                    "homepage": "https://github.com/drslump/Protobuf-PHP"
-                },
-                {
-                    "name": "Richard Gooding",
-                    "email": "richard.gooding@justdevelop.it"
-                }
-            ],
-            "description": "PHP implementation of Google's Protocol Buffers",
-            "homepage": "https://github.com/rgooding/Protobuf-PHP",
-            "keywords": [
-                "protobuf",
-                "protocol buffer",
-                "serializing"
-            ],
-            "time": "2013-05-29 14:39:13"
         },
         {
             "name": "rych/hash_pbkdf2-compat",
